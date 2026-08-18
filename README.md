@@ -13,25 +13,13 @@
 Professional showcase of high-converting infographic designs optimized for major digital marketplaces.
 
 ### 📦 Commercial Design Cases
-<p align="center">
-  <img src="Infographics/Some_Works_1.png" width="31%" alt="Work 1" />
-  <img src="Infographics/Some_Works_2.png" width="31%" alt="Work 2" />
-  <img src="Infographics/Some_Works_3.png" width="31%" alt="Work 3" />
-</p>
+![Work_1](Infographics/Some_Works_1.png) ![Work_2](Infographics/Some_Works_2.png) ![Work_3](Infographics/Some_Works_3.png)
 
 ### 🌪 Premium Hairdryer (Dyson Concept)
-<p align="center">
-  <img src="Infographics/Dyson_1.png" width="31%" alt="Dyson 1" />
-  <img src="Infographics/Dyson_2.png" width="31%" alt="Dyson 2" />
-  <img src="Infographics/Dyson_3.png" width="31%" alt="Dyson 3" />
-</p>
+![Work_1](Infographics/Dyson_1.png) ![Work_2](Infographics/Dyson_2.png) ![Work_3](Infographics/Dyson_3.png)
 
 ### 🔊 Acoustics & Smart Systems (Speaker Concept)
-<p align="center">
-  <img src="Infographics/Speaker_1.png" width="31%" alt="Speaker 1" />
-  <img src="Infographics/Speaker_2.png" width="31%" alt="Speaker 2" />
-  <img src="Infographics/Speaker_3.png.png" width="31%" alt="Speaker 3" />
-</p>
+![Work_1](Infographics/Speaker_1.png) ![Work_2](Infographics/Speaker_2.png) ![Work_3](Infographics/Speaker_3.png)
 
 
 ### 🛠 Tools
