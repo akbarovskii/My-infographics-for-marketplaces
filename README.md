@@ -30,7 +30,7 @@ Professional showcase of high-converting infographic designs optimized for major
   </tr>
 </table>
 
-### 🔊 Acoustics & Smart Systems (Speaker Concept)
+### 🔊 Acoustics & Smart Systems (Smart Speaker Concept)
 <table>
   <tr>
     <td width="33.33%"><img src="Infographics/Speaker_1.png" alt="Work_1" width="100%"></td>
@@ -53,7 +53,7 @@ This project and all its visual assets (including infographics, charts, and grap
 ## 🇨🇳 电商视觉设计与主图视觉作品集
 展示针对主流电商平台优化的高转化率主图及详情页视觉设计。
 
-### 📦 商业 Code 设计案例
+### 📦 商业设计案例
 <table>
   <tr>
     <td width="33.33%"><img src="Infographics/Some_Works_1.png" alt="Work_1" width="100%"></td>
@@ -112,7 +112,7 @@ This project and all its visual assets (including infographics, charts, and grap
   </tr>
 </table>
 
-### 🔊 Акустика и умные системы (Концепт колонки)
+### ### 🔊 Акустика и умные системы (Концепт умной колонки)
 <table>
   <tr>
     <td width="33.33%"><img src="Infographics/Speaker_1.png" alt="Work_1" width="100%"></td>
