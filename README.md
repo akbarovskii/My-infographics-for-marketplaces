@@ -30,7 +30,7 @@ Professional showcase of high-converting infographic designs optimized for major
 <p align="center">
   <img src="Infographics/Speaker_1.png" width="31%" alt="Speaker 1" />
   <img src="Infographics/Speaker_2.png" width="31%" alt="Speaker 2" />
-  <img src="Infographics/Speaker_3.png" width="31%" alt="Speaker 3" />
+  <img src="Infographics/Speaker_3.png.png" width="31%" alt="Speaker 3" />
 </p>
 
 
