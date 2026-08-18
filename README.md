@@ -47,22 +47,38 @@ Professional showcase of high-converting infographic designs optimized for major
 
 This project and all its visual assets (including infographics, charts, and graphic design concepts) were developed using **Figma** and are strictly for portfolio and academic demonstration purposes. Unauthorized downloading, replication, distribution, modification, or commercial exploitation of these materials without the author's express, prior written permission is strictly prohibited.
 
-
-
 ---
 
 <a name="chinese"></a>
 ## 🇨🇳 电商视觉设计与主图视觉作品集
 展示针对主流电商平台优化的高转化率主图及详情页视觉设计。
 
-### 📦 商业设计案例展示
-![Work_1](Infographics/Some_Works_1.png) ![Work_2](Infographics/Some_Works_2.png) ![Work_3](Infographics/Some_Works_3.png)
+### 📦 商业 Code 设计案例
+<table>
+  <tr>
+    <td width="33.33%"><img src="Infographics/Some_Works_1.png" alt="Work_1" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Some_Works_2.png" alt="Work_2" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Some_Works_3.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
-### 🌪 高端吹风机视觉概念设计 (Dyson 概念)
-![Work_1](Infographics/Dyson_1.png) ![Work_2](Infographics/Dyson_2.png) ![Work_3](Infographics/Dyson_3.png)
+### 🌪 高端吹风机（Dyson 概念设计）
+<table>
+  <tr>
+    <td width="33.33%"><img src="Infographics/Dyson_1.png" alt="Work_1" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Dyson_2.png" alt="Work_2" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Dyson_3.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
-### 🔊 智能声学与音箱视觉概念设计 (智能音箱概念)
-![Work_1](Infographics/Speaker_1.png) ![Work_2](Infographics/Speaker_2.png) ![Work_3](Infographics/Speaker_3.png)
+### 🔊 音响与智能系统（智能音箱概念设计）
+<table>
+  <tr>
+    <td width="33.33%"><img src="Infographics/Speaker_1.png" alt="Work_1" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Speaker_2.png" alt="Work_2" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Speaker_3.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
 ### 🛠 工具
 - **设计软件:** Figma
@@ -78,14 +94,32 @@ This project and all its visual assets (including infographics, charts, and grap
 ## 🇷🇺 Портфолио коммерческой инфографики для маркетплейсов
 Профессиональная демонстрация высококонверсионного графического дизайна, оптимизированного под требования ведущих торговых платформ.
 
-### 📦 Кейсы коммерческого дизайна
-![Work_1](Infographics/Some_Works_1.png) ![Work_2](Infographics/Some_Works_2.png) ![Work_3](Infographics/Some_Works_3.png)
+### 📦 Коммерческие кейсы дизайна
+<table>
+  <tr>
+    <td width="33.33%"><img src="Infographics/Some_Works_1.png" alt="Work_1" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Some_Works_2.png" alt="Work_2" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Some_Works_3.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
-### 🌪 Премиальная бытовая техника (Концепт Dyson)
-![Work_1](Infographics/Dyson_1.png) ![Work_2](Infographics/Dyson_2.png) ![Work_3](Infographics/Dyson_3.png)
+### 🌪 Премиальный фен (Концепт Dyson)
+<table>
+  <tr>
+    <td width="33.33%"><img src="Infographics/Dyson_1.png" alt="Work_1" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Dyson_2.png" alt="Work_2" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Dyson_3.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
-### 🔊 Смарт-акустика и цифровые системы (Концепт умной колонки)
-![Work_1](Infographics/Speaker_1.png) ![Work_2](Infographics/Speaker_2.png) ![Work_3](Infographics/Speaker_3.png)
+### 🔊 Акустика и умные системы (Концепт колонки)
+<table>
+  <tr>
+    <td width="33.33%"><img src="Infographics/Speaker_1.png" alt="Work_1" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Speaker_2.png" alt="Work_2" width="100%"></td>
+    <td width="33.33%"><img src="Infographics/Speaker_3.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
 ### 🛠 Инструменты
 - **Дизайн:** Figma
