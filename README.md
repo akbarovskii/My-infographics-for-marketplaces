@@ -112,7 +112,7 @@ This project and all its visual assets (including infographics, charts, and grap
   </tr>
 </table>
 
-### ### 🔊 Акустика и умные системы (Концепт умной колонки)
+### 🔊 Акустика и умные системы (Концепт умной колонки)
 <table>
   <tr>
     <td width="33.33%"><img src="Infographics/Speaker_1.png" alt="Work_1" width="100%"></td>
