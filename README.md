@@ -10,7 +10,7 @@
 
 <a name="english"></a>
 ## 🇬🇧 E-Commerce Infographics Portfolio
-Professional showcase of high-converting infographic designs optimized for major digital marketplaces.
+Showcase of high-converting infographic designs optimized for major digital marketplaces.
 
 ### 📦 Commercial Design Cases
 <table>
@@ -51,7 +51,7 @@ This project and all its visual assets (including infographics, charts, and grap
 
 <a name="chinese"></a>
 ## 🇨🇳 电商视觉设计与主图视觉作品集
-展示针对主流电商平台优化的高转化率主图及详情页视觉设计。
+专为各大主流数字电商平台优化的超高转化漏斗与视觉图表（信息图）展位。
 
 ### 📦 商业设计案例
 <table>
@@ -92,7 +92,7 @@ This project and all its visual assets (including infographics, charts, and grap
 
 <a name="russian"></a>
 ## 🇷🇺 Портфолио коммерческой инфографики для маркетплейсов
-Профессиональная демонстрация высококонверсионного графического дизайна, оптимизированного под требования ведущих торговых платформ.
+Витрина высококонверсионных инфографик, оптимизированных для крупнейших цифровых маркетплейсов.
 
 ### 📦 Коммерческие кейсы дизайна
 <table>
